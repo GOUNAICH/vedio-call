@@ -28,6 +28,7 @@
   width: 100%;
   box-sizing: border-box;
   margin-bottom: 20px;
+  color: #ffffff;
 }
 
 .form__field__wrapper label {
@@ -52,9 +53,9 @@
 .form__field__wrapper button[type='submit'] {
   margin-top: 32px;
   cursor: pointer;
-  background-color: #845695;
+  background-color: #fece51;
   border: none;
-  color: #fff;
+  color: #000000;
   font-size: 16px;
   width: 100%;
   display: flex;
@@ -66,12 +67,12 @@
 }
 
 .form__field__wrapper button[type='submit'] svg {
-  fill: #ede0e0;
+  fill: #000000;
   width: 20px;
 }
 
 #avatar__selection {
-  margin-reight: 10px;
+  margin-right: 10px;
   display: flex;
   gap: 1em;
 }
@@ -86,5 +87,5 @@
 }
 
 .avatar__option__selected {
-  border: 3px solid #845695;
+  border: 3px solid #fece51;
 }

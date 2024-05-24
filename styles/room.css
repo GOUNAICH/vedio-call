@@ -339,11 +339,11 @@
 }
 
 #join-btn{
-  background-color: #845695;
+  background-color: #fece51;
   font-size: 18px;
   padding: 25px 50px;
   border: none;
-  color:#fff;
+  color:#010101;
 
   position: fixed;
   bottom: 1rem;

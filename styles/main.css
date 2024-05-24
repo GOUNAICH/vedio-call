@@ -23,7 +23,7 @@
 
 /* Handle on hover */
 ::-webkit-scrollbar-thumb:hover {
-  background: #845695;
+  background: #fece51;
 }
 
 body {
@@ -119,20 +119,21 @@ a {
 .nav__link:hover {
   color: rgb(230, 228, 228);
   text-decoration: none;
-  border-color: #845695;
+  border-color: #fece51;
 }
 
 #create__room__btn {
   display: block;
-  background-color: #845695;
+  background-color: #fece51;
   padding: 8px 24px;
   font-size: 14px;
   font-weight: 500;
   border-radius: 5px;
+  color: #000000;
 }
 
 #create__room__btn:hover {
-  background-color: #845695;
+  background-color: #fece51;
 }
 
 .nav--list {
@@ -152,7 +153,7 @@ a {
 #members__button:hover svg > path,
 #chat__button:hover svg,
 .nav__link:hover svg {
-  fill: #845695;
+  fill: #fece51;
 }
 
 .nav__link svg {
